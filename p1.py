@@ -1,0 +1,6 @@
+user_name=input("Enter your name: ")
+user_major=input("Enter your major: ")
+user_hobby=input("What is your hobby? ")
+print("Name: "+ user_name +" ")
+print("Your major: "+ user_major +"")
+print("You are "+ user_hobby +" in your free time.")
